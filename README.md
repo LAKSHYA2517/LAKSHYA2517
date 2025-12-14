@@ -24,6 +24,7 @@ const lakshya = {
     name: "Lakshya Asnani",
     location: "Gujarat, India",
     education: {
+        college: "VIT Vellore",
         degree: "B.Tech Computer Science",
         graduationYear: "2028"
     },
