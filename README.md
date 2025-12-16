@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshya-asnani">
+  <a href="https://www.linkedin.com/in/lakshya-asnani">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="48"/>
   </a>
   <a href="https://www.instagram.com/lakshya_asnani25">
