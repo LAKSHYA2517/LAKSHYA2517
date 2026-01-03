@@ -28,17 +28,12 @@ const lakshya = {
         degree: "B.Tech Computer Science",
         graduationYear: "2028"
     },
-    interests: [
-        "Data Structures & Algorithms",
-        "AI & Machine Learning",
-        "Backend Development",
-        "Frontend Development"
-    ],
+
     techStack: {
         languages: ["C", "C++", "Python", "Java", "JavaScript"],
         backend: ["FastAPI", "Node.js", "Express.js"],
         frontend: ["React", "Tailwind CSS"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        databases: ["MongoDB", "PostgreSQL"],
         ml: ["NumPy", "Pandas", "Matplotlib", "Scikit-learn", "TensorFlow"]
     }
 };
