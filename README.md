@@ -1,7 +1,8 @@
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Hello!&fontSize=60&animation=fadeIn&fontColor=ffffff&color=0:0F2027,1:203A43,2:2C5364" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=44&center=true&vCenter=true&width=800&weight=900&lines=Hello!+I'm+Lakshya;Full+Stack+Developer;ML+Enthusiast" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshya-asnani">
