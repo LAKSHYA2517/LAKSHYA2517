@@ -35,7 +35,7 @@ const lakshya = {
         languages: ["C", "C++", "Python", "Java", "JavaScript"],
         backend: ["FastAPI", "Node.js", "Express.js"],
         frontend: ["React", "Tailwind CSS"],
-        databases: ["MongoDB", "PostgreSQL"],
+        databases: ["MongoDB", "PostgreSQL","SQL"],
         ml: ["NumPy", "Pandas", "Matplotlib", "Scikit-learn", "TensorFlow"]
     }
 };
