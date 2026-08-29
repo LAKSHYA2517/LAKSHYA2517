@@ -8,6 +8,11 @@
   <a href="https://www.linkedin.com/in/lakshya-asnani">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="48"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/lakshya_asnani25">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lakshya.asnani25@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="48"/>
   </a>
